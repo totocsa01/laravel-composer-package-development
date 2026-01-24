@@ -1,6 +1,5 @@
 {
     "name": "totocsa01/laravel-composer-package-development",
-    "version": "1.0.0",
     "description": "Setting up a Laravel application used for development.",
     "license": "MIT",
     "minimum-stability": "dev",
@@ -26,15 +25,5 @@
                 "Totocsa01\\ComposerPackageDevelopment\\ComposerPackageDevelopmentServiceProvider"
             ]
         }
-    },
-    "repositories": [
-        {
-            "name":"totocsa01-laravel-composer-package-development",
-            "type": "path",
-            "url": "totocsa01/laravel-composer-package-development",
-            "options": {
-                "symlink": true
-            }
-        }
-    ]
+    }
 }
